@@ -1,0 +1,20 @@
+import streamlit as st
+
+def app():           
+    st.title("Different Way and same Dream!")
+    st.image('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdDlH5Mv5wEHlLhqAoWBYWR2HveM42p32tg&usqp=CAU')
+    st.write("One billion people, or 15% of the world's population, experience some form of disability, such as vision, mobility, auditory or neurological. ")
+    st.write('What happen if people are disable,but every person have they dreams ')
+    st.write("When you have a dream, you've got to grab it and never let go.")
+    st.subheader('INSPIRATION')
+    st.write('They are many people who have overcame they disability , Not physically but mentally .')
+    st.write('Your present circumstances do not determine where you can go; they merely determine where you start')
+    st.subheader('How Jessica Ruiz Became a Makeup Artist—Without the Use of Her Arms')
+    st.write('If you were searching for a "This woman kicks major ass" story to inspire your Monday, here it is: The tale of Jessica Ruiz, a 26 year-old Philadelphia-basedmakeup artist—and a woman born with a congenital defect that prevents full movement in her arms and hands, which means she has to use her mouth to hold her makeup tools. According to Yahoo Beauty, Ruiz began experimenting with makeup in middle school as a way to cope with the teasing she received from classmates. She began by placing eyeliner and mascara in her left hand and bending her head down to smudge them on. After seeing how it helped her self-esteem—and the compliments she received on how well she had applied it—a passion was born. By high school, she had graduated to doing her friends makeup as well, using her mouth to steady her brushes. Then, after being turned down my multiple beauty schools, she eventually turned to YouTube tutorials to perfect her craft. Now it is s a full-time career. ')
+    st.write('It is clear from looking at her Instagrams—both of the works she does on other people and on herself—that she is talented and not at all hindered by her lack of arm movement.')
+    st.subheader('Stephen Hawking was one of the greatest theoretical physicists of the modern age.')
+    st.image('https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg')
+    st.write('While in graduate school, at age 21, Dr. Hawking was diagnosed with Amyotrophic Lateral Sclerosis (ALS), commonly referred to in the U.S. as Lou Gehrigs disease. As ALS progresses, the degeneration of motor neurons in the brain interfere with messages to muscles in the body.')
+    st.write('Dr. Hawking is best known for his discovery that black holes emit radiation which can be detected by special instrumentation. His discovery has made the detailed study of black holes possible. Stephen Hawking was born in Oxford, England on January 8, 1942.')
+    st.write("To get more inspiration go to : ")
+    st.write("https://www.narayanseva.org/blog/15-inspirational-people-with-disabilities")
